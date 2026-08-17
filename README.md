@@ -1,24 +1,33 @@
-# README
+# Demo Task App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple Ruby on Rails web application for creating, managing, and tracking tasks.
 
-Things you may want to cover:
+## Features
 
-* Ruby version
+- Create tasks
+- View tasks
+- Edit tasks
+- Delete tasks
+- Mark tasks as completed
+- Task status management
+- CRUD operations
+- Rails MVC architecture
+- ActiveRecord database integration
 
-* System dependencies
+## Technologies Used
 
-* Configuration
+- Ruby
+- Ruby on Rails
+- SQLite3
+- HTML
+- CSS
+- JavaScript
+- ERB
+- ActiveRecord
+- Git
+- GitHub
 
-* Database creation
+## Ruby Version
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```text
+Ruby 3.3.x
